@@ -1,0 +1,6 @@
+appliance_id,appliance_name,power_kw,duration_slots,earliest_start,latest_finish,interruptible,priority
+APP-01,Washing_Machine,1.2,2,8,20,yes,medium
+APP-02,Water_Heater,2.0,2,6,22,yes,high
+APP-03,Refrigerator,0.4,24,0,24,no,high
+APP-04,Dishwasher,1.0,1,10,22,yes,low
+APP-05,Air_Conditioner,1.8,3,12,22,yes,high

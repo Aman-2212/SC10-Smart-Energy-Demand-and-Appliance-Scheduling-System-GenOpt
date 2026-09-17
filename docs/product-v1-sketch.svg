@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700">
+<rect width="1200" height="700" fill="white"/>
+<rect x="30" y="25" width="1140" height="70" fill="#eeeeee" stroke="#333"/>
+<text x="60" y="70" font-family="Arial" font-size="30" font-weight="bold">GenOpt — Smart Energy Demand & Appliance Scheduling</text>
+<rect x="30" y="120" width="540" height="420" fill="white" stroke="#333"/>
+<text x="55" y="155" font-family="Arial" font-size="24" font-weight="bold">INPUTS</text>
+<text x="55" y="200" font-family="Arial" font-size="18">Hourly Load / Tariff Table</text>
+<rect x="55" y="220" width="490" height="100" fill="#f7f7f7" stroke="#999"/>
+<text x="75" y="255" font-family="Arial" font-size="16">Hour | Load (kW) | Tariff/kWh</text>
+<text x="75" y="285" font-family="Arial" font-size="16">08 | 2.4 | 6.0</text>
+<text x="55" y="355" font-family="Arial" font-size="18">Appliance Table</text>
+<rect x="55" y="375" width="490" height="95" fill="#f7f7f7" stroke="#999"/>
+<text x="75" y="410" font-family="Arial" font-size="16">Appliance | Power | Duration | Window</text>
+<text x="75" y="440" font-family="Arial" font-size="16">Washing Machine | 1.2 | 2h | 08–20</text>
+<rect x="55" y="485" width="220" height="45" fill="#dddddd" stroke="#333"/>
+<text x="115" y="515" font-family="Arial" font-size="18">OPTIMIZE</text>
+<rect x="600" y="120" width="570" height="420" fill="white" stroke="#333"/>
+<text x="625" y="155" font-family="Arial" font-size="24" font-weight="bold">RESULTS</text>
+<text x="625" y="205" font-family="Arial" font-size="18">Baseline Cost: ₹ XXX</text>
+<text x="625" y="245" font-family="Arial" font-size="18">Optimized Cost: ₹ XXX</text>
+<text x="625" y="285" font-family="Arial" font-size="18">Peak Load: X.X kW</text>
+<text x="625" y="325" font-family="Arial" font-size="18">Recommended Schedule: 08:00–10:00</text>
+<rect x="625" y="355" width="510" height="130" fill="#f7f7f7" stroke="#999"/>
+<text x="650" y="390" font-family="Arial" font-size="17">[ Schedule timeline / comparison chart ]</text>
+<text x="650" y="425" font-family="Arial" font-size="17">Explanation: appliance shifted away from</text>
+<text x="650" y="450" font-family="Arial" font-size="17">higher-tariff / high-peak hours.</text>
+<rect x="30" y="565" width="1140" height="85" fill="#fff" stroke="#333"/>
+<text x="55" y="600" font-family="Arial" font-size="18" font-weight="bold">Validation / Error:</text>
+<text x="250" y="600" font-family="Arial" font-size="18">No errors — valid input.</text>
+</svg>
