@@ -1,10 +1,9 @@
 # Step 1 Project Contract — GenOpt
 
 ## Team and responsibilities
-- Member 1: [Name] — Repository / integration
-- Member 2: [Name] — Data
-- Member 3: [Name] — Baseline
-- Member 4: [Name] — Testing / UI
+- Member 1: Aman Bhati — Project Lead / Development
+- Member 2: Aditya Sharma — Team Member
+- Member 3: Srishti — Team Member
 - If there are only 3 students, combine Repository with Testing/UI.
 
 ## One-sentence problem
