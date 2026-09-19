@@ -1,11 +1,9 @@
 # Step 1 Project Contract — GenOpt
 
 ## Team and responsibilities
-## Team and responsibilities
-
 - Member 1: Aman Bhati — Project Lead / Development
 - Member 2: Aditya Sharma — Team Member
-- Member 3: Srishti — Testing / Documentation
+- Member 3: Srishti — Team Member
 
 ## One-sentence problem
 Given hourly load, tariff, and appliance limits, predict demand and choose a lower-cost schedule.
@@ -52,7 +50,7 @@ See `docs/product-v1-sketch.png`.
 - Final data sources and licences are still to be documented.
 
 ## Step 1 completion evidence
-- Repository URL: [paste GitHub URL]
+- Repository URL: [https://github.com/Aman-2212/SC10-Smart-Energy-Demand-and-Appliance-Scheduling-System-GenOpt]
 - Validation PASS screenshot: `results/step1/`
 - Expected FAIL screenshot: `results/step1/`
-- Git history: [paste/record after team commits]
+- Git history:  Team repository commits recorded on GitHub.
