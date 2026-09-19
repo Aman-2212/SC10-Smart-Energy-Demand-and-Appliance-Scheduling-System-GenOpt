@@ -1,0 +1,6 @@
+case_id,name,example_input,expected_behavior
+TC01,Flat tariff and normal appliances,Use normal valid inputs,Baseline schedule should calculate
+TC02,High tariff from 18:00 to 22:00,Tariff is higher during 18–22,Flexible load should move later/earlier
+TC03,Appliance allowed only 10:00 to 12:00,Allowed window is 10–12,Window must be respected
+TC04,Two high-power appliances at same time,Two high-power loads overlap,Peak warning expected
+TC05,Duration longer than allowed window,Required duration exceeds feasible window,Impossible schedule must be reported
