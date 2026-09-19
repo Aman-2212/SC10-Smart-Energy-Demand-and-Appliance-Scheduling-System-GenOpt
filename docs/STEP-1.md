@@ -1,11 +1,11 @@
 # Step 1 Project Contract — GenOpt
 
 ## Team and responsibilities
-- Member 1: [Name] — Repository / integration
-- Member 2: [Name] — Data
-- Member 3: [Name] — Baseline
-- Member 4: [Name] — Testing / UI
-- If there are only 3 students, combine Repository with Testing/UI.
+## Team and responsibilities
+
+- Member 1: Aman Bhati — Project Lead / Development
+- Member 2: Aditya Sharma — Team Member
+- Member 3: Srishti — Testing / Documentation
 
 ## One-sentence problem
 Given hourly load, tariff, and appliance limits, predict demand and choose a lower-cost schedule.
