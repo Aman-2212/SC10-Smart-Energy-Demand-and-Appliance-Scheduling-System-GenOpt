@@ -4,7 +4,6 @@
 - Member 1: Aman Bhati — Project Lead / Development
 - Member 2: Aditya Sharma — Team Member
 - Member 3: Srishti — Team Member
-- If there are only 3 students, combine Repository with Testing/UI.
 
 ## One-sentence problem
 Given hourly load, tariff, and appliance limits, predict demand and choose a lower-cost schedule.
