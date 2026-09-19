@@ -50,7 +50,7 @@ See `docs/product-v1-sketch.png`.
 - Final data sources and licences are still to be documented.
 
 ## Step 1 completion evidence
-- Repository URL: [paste GitHub URL]
+- Repository URL: [https://github.com/Aman-2212/SC10-Smart-Energy-Demand-and-Appliance-Scheduling-System-GenOpt]
 - Validation PASS screenshot: `results/step1/`
 - Expected FAIL screenshot: `results/step1/`
-- Git history: [paste/record after team commits]
+- Git history:  Team repository commits recorded on GitHub.
