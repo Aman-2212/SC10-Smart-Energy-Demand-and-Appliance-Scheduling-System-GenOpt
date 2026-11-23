@@ -39,3 +39,26 @@ For Step 1, required fields should not be missing. Invalid/missing values should
 3. Appliance allowed only 10:00 to 12:00 — window must be respected.
 4. Two high-power appliances at same time — peak warning expected.
 5. Duration longer than allowed window — impossible schedule must be reported.
+
+
+    ## Step 2 — Data Source and Preparation Plan
+
+### Dataset source
+The current dataset is a simulated starter dataset created for the GenOpt SC10 project.
+
+- Source: Team-generated simulated data
+- Source URL: Not applicable for simulated data
+- Licence: Team-created project data
+- Original records: 24 hourly load records and 5 appliance records
+- Target: Electricity demand forecasting and appliance scheduling
+
+### Step 2 preparation plan
+1. Preserve the original input data in data/raw/.
+2. Inspect data types, missing values, duplicates, and invalid values.
+3. Clean and validate the dataset.
+4. Prepare reproducible training, validation, and testing datasets where applicable.
+5. Save processed data in data/processed/.
+6. Document validation results, assumptions, and limitations.
+
+### Data limitations
+The starter data is simulated and does not represent real electricity measurements. Any additional generated scenarios will be labelled as synthetic data.
